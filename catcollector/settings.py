@@ -78,8 +78,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'catcollectorapp',
         'USER': 'postgres',
-        'PASSWORD': '12345678',
-        'PORT': 5434
+        'PASSWORD': '10102030',
+        'PORT': 5432
     }
 }
 
